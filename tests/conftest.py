@@ -13,7 +13,8 @@ from tests.helpers.constants import (
     USER_PASSWORD,
     USERNAME,
     USERNAME2,
-    VERIFICATION_FROM_EMAIL
+    VERIFICATION_FROM_EMAIL,
+    VERSION 
 )
 from tests.helpers.settings import (
     override_auth_model_settings,
